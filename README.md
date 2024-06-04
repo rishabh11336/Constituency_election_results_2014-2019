@@ -22,4 +22,5 @@
 3. Is there any correlation between literacy % of a state and voter turnout %?
 4. Provide 3 recommendations on what the election commission /government can do to increase the voter turnout %?
 
-[All these questions are answered in notebook](https://github.com/rishabh11336/Constituency_election_results_2014-2019/blob/main/data%26notebook/EDA.ipynb)
+- [All these questions are answered in notebook](https://github.com/rishabh11336/Constituency_election_results_2014-2019/blob/main/data%26notebook/EDA.ipynb)  
+- [Presentation of analysis](https://github.com/rishabh11336/Constituency_election_results_2014-2019/blob/main/atliq%20private%20media%20company%20ppt.pdf)
