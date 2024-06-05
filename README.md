@@ -24,3 +24,4 @@
 
 - [All these questions are answered in notebook](https://github.com/rishabh11336/Constituency_election_results_2014-2019/blob/main/data%26notebook/EDA.ipynb)  
 - [Presentation of analysis](https://github.com/rishabh11336/Constituency_election_results_2014-2019/blob/main/atliq%20private%20media%20company%20ppt.pdf)
+![atliq private media company](https://github.com/rishabh11336/Constituency_election_results_2014-2019/assets/67859818/c64c8b4d-b132-436d-815d-c379976d19b4)
